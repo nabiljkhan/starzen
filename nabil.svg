@@ -21,7 +21,7 @@
 
           transform:translateX(100%);
 
-          animation: marquee 9s linear infinite;
+          animation: marquee 10s linear infinite;
         }
 
         @keyframes marquee {
